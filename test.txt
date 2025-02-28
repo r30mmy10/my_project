@@ -1,2 +1,3 @@
 First change
 Second change
+This is a new change in dev branch
